@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45fbe19f-e121-4187-be1c-8f3be1ce4022" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="45fbe19f-e121-4187-be1c-8f3be1ce4022" name="Changes" comment="readme changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -291,7 +287,20 @@
       <option name="presentableId" value="Default" />
       <updated>1752468912438</updated>
     </task>
+    <task id="LOCAL-00001" summary="readme changes">
+      <option name="closed" value="true" />
+      <created>1756228689153</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1756228689153</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="readme changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
