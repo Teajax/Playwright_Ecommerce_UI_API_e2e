@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45fbe19f-e121-4187-be1c-8f3be1ce4022" name="Changes" comment="" />
+    <list default="true" id="45fbe19f-e121-4187-be1c-8f3be1ce4022" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +21,26 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Teajax&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Teajax/Playwright_ECommerce_UI_API&quot;,
+    &quot;accountId&quot;: &quot;86d46b49-419f-4b02-a2f4-25bfd63faaf5&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python313/Lib/site-packages/_pytest/python.py" root0="SKIP_INSPECTION" />
   </component>
@@ -28,32 +52,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python tests.Python tests for Assertions.test_UIchecks.executor": "Run",
-    "Python tests.Python tests for Assertions.test_handleFrames.executor": "Run",
-    "Python tests.Python tests for Assertions.test_handleTables.executor": "Run",
-    "Python tests.Python tests for UI_Validations.test_handlenewtab.executor": "Run",
-    "Python tests.Python tests for test_Playwrightbasics.test_corelocators.executor": "Run",
-    "Python tests.Python tests for test_Playwrightbasics.test_openfirefox.executor": "Run",
-    "Python tests.Python tests for test_Playwrightbasics.test_playwrightbasic.executor": "Run",
-    "Python tests.Python tests for test_Playwrightbasics.test_playwrightshortcut.executor": "Run",
-    "Python tests.Python tests for test_network.test_network_1.executor": "Run",
-    "Python tests.Python tests for test_network_1.test_network_1.executor": "Run",
-    "Python tests.Python tests for test_network_1.test_session_storage.executor": "Run",
-    "Python tests.Python tests for test_webApi.test_e2e_web_api.executor": "Run",
-    "Python tests.pytest for test_webApi.test_e2e_web_api.executor": "Run",
-    "Python tests.pytest in test_pytest-bddTest.py.executor": "Run",
-    "Python.Pythonbasics.executor": "Run",
-    "Python.apibase.executor": "Run",
-    "Python.child.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "last_opened_file_path": "C:/Users/TejalRahate/PycharmProjects/PythonProject/Order_Project",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for Assertions.test_UIchecks.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for Assertions.test_handleFrames.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for Assertions.test_handleTables.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for UI_Validations.test_handlenewtab.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Playwrightbasics.test_corelocators.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Playwrightbasics.test_openfirefox.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Playwrightbasics.test_playwrightbasic.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Playwrightbasics.test_playwrightshortcut.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_network.test_network_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_network_1.test_network_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_network_1.test_session_storage.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_webApi.test_e2e_web_api.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_webApi.test_e2e_web_api.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest in test_pytest-bddTest.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pythonbasics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.apibase.executor&quot;: &quot;Run&quot;,
+    &quot;Python.child.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/TejalRahate/PycharmProjects/PythonProject/Order_Project&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="PythonProject" is-module-sdk="true">

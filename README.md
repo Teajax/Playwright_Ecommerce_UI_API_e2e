@@ -13,17 +13,13 @@ The tests cover:
 - ✅ Product detail views
 - ✅ Cart operations (add, remove, update quantity)
 - ✅ Checkout process and order confirmation
-- ✅ Payment gateway simulation
-- ✅ Admin login and product management (if applicable)
 
 ---
 
 ## 🧪 Tech Stack
 
-- **Test Framework:** Cypress  
-- **Language:** JavaScript / TypeScript  
-- **CI/CD:** GitHub Actions (optional)  
-- **Reporting:** Allure / Mochawesome (optional)
+- **Test Framework:** Pytest / Playwright
+- **Language:** Python
 
 ---
 
